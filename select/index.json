@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ローズヒップティー",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-02-11T01:46:46.777469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ローズヒップティー",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_ローズヒップティー_『ユイカ』.txt"
+    }
+  ]
+}
